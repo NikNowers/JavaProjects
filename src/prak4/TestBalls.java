@@ -1,5 +1,4 @@
 package prak4;
-import java.lang.*;
 public class TestBalls {
     public static void main(String[] args) {
         Balls b1 = new Balls(100, 100);

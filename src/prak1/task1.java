@@ -1,6 +1,6 @@
 package prak1;
 import java.lang.*;
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         int[] a = new int[5];
         int b = 0;

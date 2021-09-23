@@ -1,7 +1,7 @@
 package prak1;
 import java.lang.*;
 import java.util.Scanner;
-public class task5 {
+public class Task5 {
     public static int factorial(int numb){
         int sum=1;
         for(int i=1;i<=numb;i++)

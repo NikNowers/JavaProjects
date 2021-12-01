@@ -8,4 +8,4 @@
 
 UML-диаграмма:
 
-![Диаграмма]()
+![Диаграмма](https://github.com/NikNowers/JavaProjects/blob/master/src/prak16/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0.jpg)

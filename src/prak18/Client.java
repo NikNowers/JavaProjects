@@ -1,4 +1,4 @@
-package ru.mirea.task18;
+package prak18;
 
 public class Client {
     public String name;

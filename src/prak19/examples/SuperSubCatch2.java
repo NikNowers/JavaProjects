@@ -1,4 +1,4 @@
-package ru.mirea.task19.examples;
+package prak19.examples;
 
 class SuperSubCatch2 {
     public static void main(String[] args) {

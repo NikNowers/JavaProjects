@@ -1,4 +1,4 @@
-package ru.mirea.task19.examples;
+package prak19.examples;
 
 //Пример применения вложенных операторов try
 class NestedTry {

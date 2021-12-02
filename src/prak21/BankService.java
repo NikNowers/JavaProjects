@@ -1,4 +1,4 @@
-package ru.mirea.task21;
+package prak21;
 
 import java.util.Date;
 

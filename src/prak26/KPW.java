@@ -1,4 +1,4 @@
-package ru.mirea.task26;
+package prak26;
 
 public class KPW extends Money{
     public KPW(){

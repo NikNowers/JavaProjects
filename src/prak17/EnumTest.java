@@ -1,4 +1,4 @@
-package ru.mirea.task17;
+package prak17;
 import java.util.Scanner;
 
 enum BankProducts {

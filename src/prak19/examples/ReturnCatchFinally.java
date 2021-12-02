@@ -1,4 +1,4 @@
-package ru.mirea.task19.examples;
+package prak19.examples;
 
 /* Оператор return в catch и finally */
 public class ReturnCatchFinally {

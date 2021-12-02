@@ -1,4 +1,4 @@
-package ru.mirea.task20.example;
+package prak20.example;
 
 import java.util.Arrays;
 import java.util.TimeZone;

@@ -1,4 +1,4 @@
-package ru.mirea.task18.examples;
+package prak18.examples;
 
 // Продемонстрировать применение оператора finally
 class FinallyDemo {

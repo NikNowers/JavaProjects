@@ -1,4 +1,4 @@
-package ru.mirea.task18.examples;
+package prak18.examples;
 import java.util.Random;
 
 //  Обработать исключение и продолжить работу

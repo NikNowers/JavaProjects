@@ -1,4 +1,4 @@
-package ru.mirea.task18;
+package prak18;
 
 public class ExceptionTest {
     static Client cl;

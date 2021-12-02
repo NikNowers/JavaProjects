@@ -1,4 +1,4 @@
-package ru.mirea.task19;
+package prak19;
 
 public class ExceptionTest {
 

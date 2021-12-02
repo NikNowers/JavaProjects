@@ -1,4 +1,4 @@
-package ru.mirea.task22;
+package prak22;
 import java.util.Scanner;
 
 enum AdditService {

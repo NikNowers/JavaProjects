@@ -1,4 +1,4 @@
-package ru.mirea.task20;
+package prak20;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;

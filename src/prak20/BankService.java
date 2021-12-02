@@ -1,4 +1,4 @@
-package ru.mirea.task20;
+package prak20;
 import java.util.Date;
 
 public class BankService {

@@ -1,4 +1,4 @@
-package ru.mirea.task25;
+package prak25;
 
 public class SpecialAccount implements BankAccount{
     private BankAccount bankAcc;

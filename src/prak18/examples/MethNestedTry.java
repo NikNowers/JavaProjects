@@ -1,4 +1,4 @@
-package ru.mirea.task18.examples;
+package prak18.examples;
 
 // Операторы try могут быть неявно вложены в вызовы методов.
 class MethNestedTry {

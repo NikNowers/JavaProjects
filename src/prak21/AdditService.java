@@ -1,4 +1,4 @@
-package ru.mirea.task21;
+package prak21;
 
 public enum AdditService {
     Commission(1), Insurance(2), MobileBank(3), SMSAlerts(4);

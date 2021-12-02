@@ -1,4 +1,4 @@
-package ru.mirea.task25;
+package prak25;
 
 public class CurrentAccount implements BankAccount {
     private String service;

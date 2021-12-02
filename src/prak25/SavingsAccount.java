@@ -1,4 +1,4 @@
-package ru.mirea.task25;
+package prak25;
 
 public class SavingsAccount extends SpecialAccount{
     public SavingsAccount(BankAccount bankAcc){

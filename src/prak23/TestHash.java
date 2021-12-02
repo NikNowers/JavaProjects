@@ -1,4 +1,4 @@
-package ru.mirea.task23;
+package prak23;
 
 public class TestHash {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ru.mirea.task24;
+package prak24;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
